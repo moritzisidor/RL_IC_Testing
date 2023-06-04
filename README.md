@@ -3,7 +3,7 @@ This repository contains all means for training and testing a Reinforcement Lear
 Developed as part of a bachelor thesis at the Zurich University of Applied Sciences.\
 In collaboration with: Institute of Data Analysis and Process Design
 # Authors
-Moritz Rüegsegger and Nicolas Nyfeler
+Moritz Rüegsegger and Nicolas Nyfeler\
 contact: moritz.ruegsegger@gmail.com, nyfelnic@students.zhaw.ch
 # Contains:
 1) Package 'gymnasium-custom': To create a custom Gymnasium Environment that contains a virtual test environment for IC Testing.
