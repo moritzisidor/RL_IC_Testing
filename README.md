@@ -1,6 +1,6 @@
 # Agent based final testing of integrated circuits
 This repository contains all means for training and testing a Reinforcement Learning Model for final testing of integrated circuits.\
-Developed as part of a bachelor thesis at the Zurich University of Applied Sciences.
+Developed as part of a bachelor thesis at the Zurich University of Applied Sciences.\
 In collaboration with: Institute of Data Analysis and Process Design
 # Authors
 Moritz Rüegsegger and Nicolas Nyfeler
