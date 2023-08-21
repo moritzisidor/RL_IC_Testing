@@ -11,10 +11,10 @@ contact: moritz.ruegsegger@gmail.com, nyfelnic@students.zhaw.ch
 3) requirements.txt: All python requirements that have to met.
 # Package gymnasium-custom
 ## Installation:
-1) Change the .env file in the 'gymnasium-custom' folder. Add the path of your training and test data (DATA_PATH) and the file name of the specific training data set (TRAINING_FILE).\
-Save the .env file.
-2) Add the folder 'gymnasium-custom' to your local Python package folder 'site-packages'.
-3) In command prompt (shell), move to the directory 'site-packages'.
-4) Execute the following command: pip install -e gymnasium-custom
+1) Add the folder 'gymnasium-custom' to your local Python package folder 'site-packages'.
+2) In command prompt (shell), move to the directory 'site-packages'.
+3) Execute the following command: pip install -e gymnasium-custom
 # Training and Testing the Agent
-Please follow instructions in jupyter notebook 'RL_IC_Testing.ipynb'
+1) Change the .env file in the 'IC Testing Modell' folder by adding the path of your data (DATA_PATH) and the file name of the specific training data set (TRAINING_FILE).\
+Save the .env file.
+2) Please follow instructions in jupyter notebook 'RL_IC_Testing.ipynb'
