@@ -8,7 +8,8 @@ contact: moritz.ruegsegger@gmail.com, nyfelnic@students.zhaw.ch
 # Contains:
 1) Package 'gymnasium-custom': To create a custom Gymnasium Environment that contains a virtual test environment for IC Testing.
 2) IC Testing Model: Jupyter Notebook for training and testing the Agent.
-3) requirements.txt: All python requirements that have to met.
+3) Docker container to build a docker image which allows the notebook to be run on a virtual machine.
+4) requirements.txt: All python requirements that have to met.
 # Package gymnasium-custom
 ## Installation:
 1) Add the folder 'gymnasium-custom' to your local Python package folder 'site-packages'.
